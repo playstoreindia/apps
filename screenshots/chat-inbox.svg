@@ -1,0 +1,34 @@
+<svg width="640" height="1136" viewBox="0 0 640 1136" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="1136" fill="#F8FAFC"/>
+  <rect x="0" y="0" width="640" height="120" fill="url(#headerGrad)"/>
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0077B6"/>
+      <stop offset="100%" stop-color="#00B4D8"/>
+    </linearGradient>
+  </defs>
+  <text x="320" y="75" font-family="system-ui" font-size="28" font-weight="600" fill="white" text-anchor="middle">Chatee</text>
+  <rect x="24" y="150" width="592" height="80" rx="16" fill="white" stroke="#E2E8F0"/>
+  <circle cx="64" cy="190" r="30" fill="#0077B6"/>
+  <text x="110" y="175" font-family="system-ui" font-size="18" font-weight="600" fill="#1E293B">Sarah M.</text>
+  <text x="110" y="205" font-family="system-ui" font-size="14" fill="#64748B">Hey! How are you?</text>
+  <text x="560" y="195" font-family="system-ui" font-size="12" fill="#94A3B8" text-anchor="end">2 min ago</text>
+  <rect x="24" y="250" width="592" height="80" rx="16" fill="white" stroke="#E2E8F0"/>
+  <circle cx="64" cy="290" r="30" fill="#00B4D8"/>
+  <text x="110" y="275" font-family="system-ui" font-size="18" font-weight="600" fill="#1E293B">Alex Chen</text>
+  <text x="110" y="305" font-family="system-ui" font-size="14" fill="#64748B">Thanks for the match! 😊</text>
+  <text x="560" y="295" font-family="system-ui" font-size="12" fill="#94A3B8" text-anchor="end">1h ago</text>
+  <rect x="24" y="350" width="592" height="80" rx="16" fill="white" stroke="#E2E8F0"/>
+  <circle cx="64" cy="390" r="30" fill="#2ECC71"/>
+  <text x="110" y="375" font-family="system-ui" font-size="18" font-weight="600" fill="#1E293B">Maria R.</text>
+  <text x="110" y="405" font-family="system-ui" font-size="14" fill="#64748B">Video call tonight?</text>
+  <circle cx="560" cy="390" r="18" fill="#FEF3C7"/>
+  <text x="560" y="395" font-family="system-ui" font-size="14" font-weight="600" fill="#F59E0B" text-anchor="middle">2</text>
+  <text x="560" y="435" font-family="system-ui" font-size="12" fill="#94A3B8" text-anchor="end">3h ago</text>
+  <rect x="24" y="450" width="592" height="80" rx="16" fill="white" stroke="#E2E8F0"/>
+  <circle cx="64" cy="490" r="30" fill="#8B5CF6"/>
+  <text x="110" y="475" font-family="system-ui" font-size="18" font-weight="600" fill="#1E293B">David K.</text>
+  <text x="110" y="505" font-family="system-ui" font-size="14" fill="#64748B">Sending you a photo...</text>
+  <rect x="500" y="465" width="80" height="50" rx="8" fill="#F1F5F9"/>
+  <text x="320" y="700" font-family="system-ui" font-size="16" fill="#64748B" text-anchor="middle">Chat Inbox — All conversations in one place</text>
+</svg>
